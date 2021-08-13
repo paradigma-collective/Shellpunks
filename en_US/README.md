@@ -1,24 +1,40 @@
-[:flag_br: Leia em português](/README.md)
+[🇧🇷 Leia em português](/Paradigma/Shellpunks)
 
 ![shellpunks](visual/shellpunks_banner.png)
 
-[![Contact](https://img.shields.io/badge/contato-blue.svg?style=for-the-badge)](https://gitlab.com/paradigma_/paradigma/wikis/en_US/Contact) [![Wiki](https://img.shields.io/badge/wiki-lightgrey.svg?longCache=true&style=for-the-badge)](https://gitlab.com/paradigma_/shellpunks/wikis/en_us/home) [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-red.svg?longCache=true&style=for-the-badge)](https://gitlab.com/paradigma_/paradigma/wikis/en_US/Code-of-Conduct)
+[![Wiki](https://img.shields.io/badge/wiki-lightgrey.svg?longCache=true&style=for-the-badge)](https://git.disroot.org/Paradigma/Shellpunks/wiki/en_US%2FHome) [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-red.svg?longCache=true&style=for-the-badge)](https://gitlab.com/paradigma_/paradigma/wikis/en_US/Code-of-Conduct)
 
 ## Summary
 
-#### [1. Introduction](#introduction)
+1. [Introduction](#introduction)
 
-#### [2. Terminal emulators](#terminal-emulators)
+2.  [Terminal emulators](#terminal-emulators)
 
-#### [3. Shells](#shells)
+3. [Shells](#shells)
 
-#### [4. Text editors](#text-editors)
+4. [Text editors](#text-editors)
 
-#### [5. Multiplexers](#multiplexers)
+5. [Multiplexers](#multiplexers)
 
-#### [6. Tools and Plugins](#tools-and-plugins)
+6. Tools and Plugins
 
-#### [7. Guides](#guides)
+    1. [Reference and learning](#reference-and-learning)
+
+    2. [Files and directories](#files-and-directories)
+
+    3. [Download and serving](#download-and-serving)
+
+    4. [Data manipulation](#data-manipulation)
+
+    5. [Multimedia](#multimedia)
+
+    6. [Git](#git)
+
+    7. [Theming](#theming)
+
+7. [Guides](#guides)
+
+8. [References](#references)
 
 ## Introduction
 
@@ -41,10 +57,6 @@ Through the results presented at Shellpunks, we build and maintain here a list o
 [upterm](https://github.com/railsware/upterm) | A terminal emulator for the 21<sup>st</sup> century. | Linux/BSD, MacOs
 [xfce4-terminal](http://goodies.xfce.org/projects/applications/terminal) | a lightweight and easy to use terminal emulator | Linux/BSD
 
-<br>
-
-**[⬆ back to top](#summary)**
-
 ## Shells
 
 | Name | Description |
@@ -55,11 +67,6 @@ line shell for the 90s.
 [powershell](https://github.com/PowerShell/PowerShell) | Window's default shell.
 [zsh](http://www.zsh.org/) | A shell designed for interactive use, although also a powerful scripting language.
 
-<br>
-
-**[⬆ back to top](#summary)**
-
-
 ## Text editors
 
 | Nome | Descrição |
@@ -67,10 +74,6 @@ line shell for the 90s.
 [micro](https://github.com/zyedidia/micro) | A modern and intuitive text editor for the terminal.
 [nano](https://www.nano-editor.org/) | A small, friendly text editor inspired by Pico.
 [spacemacs](http://spacemacs.org/) | A community driven distribution of [emacs](https://www.gnu.org/software/emacs/).
-
-<br>
-
-**[⬆ back to top](#summary)**
 
 ## Multiplexers
 
@@ -81,21 +84,9 @@ line shell for the 90s.
 [screen]( https://savannah.gnu.org/projects/screen) | ![20/10/2018 - presented at shellpunks](https://img.shields.io/badge/20%2F10%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> the prototypical multiplexer from the GNU project
 [tmux]( https://tmux.github.io/) | ![20/10/2018 - presented at shellpunks](https://img.shields.io/badge/20%2F10%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> A modern and highly configurable multiplexer
 
-**[⬆ back to top](#summary)**
-
 ## Tools and plugins
 
-### Categories
-
-#### [1. Reference and learning](#reference-and-lerning)
-#### [2. Files and directories](#files-and-directories)
-#### [3. Download and serving](#download-and-serving)
-#### [4. Data manipulation](#data-manipulation)
-#### [5. Multimedia](#multimedia)
-#### [6. Git](#git)
-#### [7. Theming](#theming)
-
-### Reference and lerning
+### Reference and learning
 
 | Name | Description |
 | :------------- | :------------- |
@@ -112,7 +103,7 @@ line shell for the 90s.
 | Nome | Descrição |
 | :------------- | :------------- |
 [ad](https://github.com/tanrax/terminal-AdvancedNewFile) | Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
-[nav](https://gitlab.com/hThoreau/nav) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![29/09/2018 - presented at shellpunks](https://img.shields.io/badge/29%2F08%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> **Navigational Assistance with Velocity -** In brief, it finds a folder whose name matches search patterns and makes it the current working directory.
+[nav](https://git.disroot.org/Lusiadas/nav) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![29/09/2018 - presented at shellpunks](https://img.shields.io/badge/29%2F08%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> **Navigational Assistance with Velocity -** In brief, it finds a folder whose name matches search patterns and makes it the current working directory.
 [rename-cli](https://github.com/jhotmann/node-rename-cli) | A tool for renaming files quickly, especially multiple files at once.
 
 ### Downloading and serving
@@ -120,7 +111,7 @@ line shell for the 90s.
 | Name | Description |
 | :------------- | :------------- |
 [elinks](http://elinks.cz/) | A feature-rich program for browsing the web in text mode.
-[publish](https://gitlab.com/hThoreau/publish) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![05/09/2018 - presented at shellpunks](https://img.shields.io/badge/05%2F09%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> With a single command, publish the contents of the clipboard, or a file, or several, in its entirety or partially.
+[publish](https://git.disroot.org/Lusiadas/publish) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![05/09/2018 - presented at shellpunks](https://img.shields.io/badge/05%2F09%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> With a single command, publish the contents of the clipboard, or a file, or several, in its entirety or partially.
 [wifish](https://github.com/bougyman/wifish) | List Wi-Fi access points and connect to one of them through the terminal.
 
 ### Data manipulation
@@ -128,9 +119,8 @@ line shell for the 90s.
 | Name | Description |
 | :------------- | :------------- |
 [ag](https://github.com/ggreer/the_silver_searcher) | A code-searching tool similar to ack, but faster.
-[pass](https://www.passwordstore.org/) | the standard unix password manager.
-[pass](https://www.passwordstore.org/) | ![19/09/2018 - apresentado no shellpunks](https://img.shields.io/badge/27%2F10%2F2018-apresentado%20no%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> Um gerenciador de banco de senhas adequado às convenções Unix.
-[fuzzy](https://gitlab.com/argonautica/fuzzy) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![27/10/2018 - presented at shellpunks](https://img.shields.io/badge/05%2F09%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> Fuzzy select commands, files, or running processes.
+[pass](https://www.passwordstore.org/) | ![19/09/2018 - presented at shellpunks](https://img.shields.io/badge/27%2F10%2F2018-apresentado%20no%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> the standard unix password manager.
+[fuzzy](https://git.disroot.org/Lusiadas/fuzzy) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![27/10/2018 - presented at shellpunks](https://img.shields.io/badge/05%2F09%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> Fuzzy select commands, files, or running processes.
 
 ### Multimedia
 
@@ -147,47 +137,37 @@ line shell for the 90s.
 [tig](https://jonas.github.io/tig/) | An ncurses-based text-mode interface for git. It functions mainly as a Git repository browser.
 [tpm](https://github.com/tmux-plugins/tpm) | ![20/10/2018 - presented at shellpunks](https://img.shields.io/badge/20%2F10%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> A plugin manager for [tmux](https://tmux.github.io/)
 
-
-
 ### Theming
 
 | Nome | Descrição |
 | :------------- | :------------- |
-[otacon](https://gitlab.com/argonautica/otacon) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![20/10/2018 - presented at shellpunks](https://img.shields.io/badge/20%2F10%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> A simplified version of the [fox](https://github.com/Posnet/fish-theme) theme, optimized to display information adjusted to the terminal length, with an accompaning status bar theme for [tmux](https://tmux.github.io).
-[min](https://gitlab.com/argonautica/min) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![20/10/2018 - presented at shellpunks](https://img.shields.io/badge/20%2F10%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> A minimal prompt with an accompaning status bar theme for [tmux](https://tmux.github.io).
-
-<br>
-
-**[⬆ back to top](#summary)**
+[otacon](https://git.disroot.org/Lusiadas/otacon) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![20/10/2018 - presented at shellpunks](https://img.shields.io/badge/20%2F10%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> A simplified version of the [fox](https://github.com/Posnet/fish-theme) theme, optimized to display information adjusted to the terminal length, with an accompaning status bar theme for [tmux](https://tmux.github.io).
+[min](https://git.disroot.org/Lusiadas/min) | ![authorial](https://img.shields.io/badge/authorial-blue.svg?longCache=true&style=popout-square) ![20/10/2018 - presented at shellpunks](https://img.shields.io/badge/20%2F10%2F2018-presented%20at%20shellpunks-red.svg?longCache=true&style=popout-square)<br/> A minimal prompt with an accompaning status bar theme for [tmux](https://tmux.github.io).
 
 ## Guides
 
-**[The art of the command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)**
+[The art of the command line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)
 
-**[Unix CLI Crash and Burn Course](https://gitlab.com/shmibs/tutorials/blob/master/unix_cli_crash-and-burn_course/unix_cli_crash-and-burn_course.md)**
+[Unix CLI Crash and Burn Course](https://gitlab.com/shmibs/tutorials/blob/master/unix_cli_crash-and-burn_course/unix_cli_crash-and-burn_course.md)
 
-**[Bash Hackers Wiki](http://wiki.bash-hackers.org/)**
+[Bash Hackers Wiki](http://wiki.bash-hackers.org/)
 
-**[Greg's Wooledge Wiki](http://mywiki.wooledge.org/)**
+[Greg's Wooledge Wiki](http://mywiki.wooledge.org/)
 
-**[The Linux Documentation Project: Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)**
+[The Linux Documentation Project: Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 
-**[The Linux Documentation Project: Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)**
+[The Linux Documentation Project: Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
 
-**[WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)**
+[WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
-**[Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)**
+[Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
-**[Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial)**
+[Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 
-**[A guide to learn bash](https://github.com/Idnan/bash-guide)**
+[A guide to learn bash](https://github.com/Idnan/bash-guide)
 
-<br>
+## References
+
+Aside from the links presented above, this page has content drawn from the [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps), [awesome-shell](https://github.com/alebcay/awesome-shell), and [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) repositories. We're grateful for their contribution.
 
 **[⬆ back to top](#summary)**
-
----
-
-### Attribution
-
-Aside from the links presented above, this page has content drawn from the [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps), [awesome-shell](https://github.com/alebcay/awesome-shell), and [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) repositories. To them we're grateful for their contribution.
