@@ -2,13 +2,13 @@
 
 ![shellpunks](visual/shellpunks_banner.png)
 
-[![Wiki](https://img.shields.io/badge/wiki-lightgrey.svg?longCache=true&style=for-the-badge)](https://git.disroot.org/Paradigma/Shellpunks/wiki/en_US%2FHome) [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-red.svg?longCache=true&style=for-the-badge)](https://gitlab.com/paradigma_/paradigma/wikis/en_US/Code-of-Conduct)
+[![Wiki](https://img.shields.io/badge/wiki-lightgrey.svg?longCache=true&style=for-the-badge)](https://git.disroot.org/Paradigma/Shellpunks/wiki/en_US%2FHome) [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-red.svg?longCache=true&style=for-the-badge)](https://git.disroot.org/Paradigma/Paradigma/wiki/en_US%2FCode-of-Conduct)
 
 ## Summary
 
 1. [Introduction](#introduction)
 
-2.  [Terminal emulators](#terminal-emulators)
+2. [Terminal emulators](#terminal-emulators)
 
 3. [Shells](#shells)
 
