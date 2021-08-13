@@ -62,8 +62,7 @@ Through the results presented at Shellpunks, we build and maintain here a list o
 | Name | Description |
 | :------------- | :------------- |
 [bash](https://www.gnu.org/software/bash/) | The **Bourne Again SHell**, Project GNU's own shell. This is the default shell for macOS, Android and a variety of Linux distributions.
-[fish](https://fishshell.com/) | The **Friendly Interactive SHell**. Finally, a command
-line shell for the 90s.
+[fish](https://fishshell.com/) | The **Friendly Interactive SHell**. Finally, a command line shell for the 90s.
 [powershell](https://github.com/PowerShell/PowerShell) | Window's default shell.
 [zsh](http://www.zsh.org/) | A shell designed for interactive use, although also a powerful scripting language.
 
@@ -93,8 +92,7 @@ line shell for the 90s.
 [cmdchallenge](https://cmdchallenge.com/) | Solve tasks in a single line of bash.
 [explainshell](http://www.explainshell.com/) | write down a command-line to see the help text that matches each argument.
 [regexr](https://regexr.com/) | RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-[thefuck](https://github.com/nvbn/thefuck) | The Fuck attempts to fix user's command line mistakes, by
- composing new commands applying a series of matching rules.
+[thefuck](https://github.com/nvbn/thefuck) | The Fuck attempts to fix user's command line mistakes, by composing new commands applying a series of matching rules.
 [tldr](https://github.com/tldr-pages/tldr) | Simplified community driven man pages
 [translate-shell](https://github.com/soimort/translate-shell) | a simple command line interface to http://translate.google.com which allows you to translate strings in your terminal.
 
