@@ -158,7 +158,7 @@ Através do resultado apresentado no Shellpunks, produzimos e realizamos a curad
 
 [A arte da Linha de Comando](https://github.com/jlevy/the-art-of-command-line/blob/master/README-pt.md)
 
-[Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial)**
+[Learn Enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 
 [A guide to learn bash](https://github.com/Idnan/bash-guide)
 
